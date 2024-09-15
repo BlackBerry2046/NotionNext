@@ -1,16 +1,16 @@
 {
-  "name": "notion-next",
+  "name": "OnlyNotion",
   "version": "4.7.0",
-  "homepage": "https://github.com/tangly1024/NotionNext.git",
+  "homepage": "https://github.com/BlackBerry2046.git",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tangly1024/NotionNext.git"
+    "url": "https://github.com/BlackBerry2046.git"
   },
   "author": {
-    "name": "tangly",
-    "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "name": "OnlyNotion",
+    "email": "lickco@cock.li",
+    "url": "https://onlynotion.top"
   },
   "scripts": {
     "dev": "next dev",
@@ -65,7 +65,7 @@
     "axios": ">=0.21.1"
   },
   "bugs": {
-    "url": "https://github.com/tangly/NotionNext/issues",
-    "email": "tlyong1992@hotmail.com"
+    "url": "https://github.com/BlackBerry2046/issues",
+    "email": "lickco@cock.li"
   }
 }
